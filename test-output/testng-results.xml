@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17507" started-at="2017-03-11T21:31:44Z" finished-at="2017-03-11T21:32:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17507" started-at="2017-03-11T21:31:44Z" finished-at="2017-03-11T21:32:01Z">
+      <class name="com.Maven.Demo.DemoOneTest">
+        <test-method status="PASS" signature="methodOne()[pri:0, instance:com.Maven.Demo.DemoOneTest@482f8f11]" name="methodOne" duration-ms="17466" started-at="2017-03-12T03:01:44Z" finished-at="2017-03-12T03:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- com.Maven.Demo.DemoOneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

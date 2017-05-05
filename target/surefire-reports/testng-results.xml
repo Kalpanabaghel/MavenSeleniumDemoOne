@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="69539" started-at="2017-03-13T15:15:53Z" finished-at="2017-03-13T15:17:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="69539" started-at="2017-03-13T15:15:53Z" finished-at="2017-03-13T15:17:03Z">
+      <class name="com.Maven.Demo.DemoThreeTest">
+        <test-method status="PASS" signature="methodThree()[pri:0, instance:com.Maven.Demo.DemoThreeTest@3d24753a]" name="methodThree" duration-ms="1" started-at="2017-03-13T20:46:48Z" finished-at="2017-03-13T20:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThree -->
+      </class> <!-- com.Maven.Demo.DemoThreeTest -->
+      <class name="com.Maven.Demo.DemoTwoTest">
+        <test-method status="PASS" signature="methodTwo()[pri:0, instance:com.Maven.Demo.DemoTwoTest@59a6e353]" name="methodTwo" duration-ms="14446" started-at="2017-03-13T20:46:48Z" finished-at="2017-03-13T20:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwo -->
+      </class> <!-- com.Maven.Demo.DemoTwoTest -->
+      <class name="com.Maven.Demo.DemoOneTest">
+        <test-method status="PASS" signature="methodOne()[pri:0, instance:com.Maven.Demo.DemoOneTest@19dfb72a]" name="methodOne" duration-ms="55049" started-at="2017-03-13T20:45:53Z" finished-at="2017-03-13T20:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+      </class> <!-- com.Maven.Demo.DemoOneTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
